@@ -13,5 +13,6 @@ Un blog increíble para el curso de Git y GitHub.
 * Las personalidades multiples de Juan José
 * Creado por el increible Ingeniero de sistemas
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 Y como un amable recordatorio: **El readme.md es muy importante**. y visita mi perfil de GitHub [**ver perfil**.](https://github.com/juanjo95/ "ver perfil.")
