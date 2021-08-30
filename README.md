@@ -11,5 +11,6 @@ Un blog increíble para el curso de Git y GitHub.
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades multiples de Juan José
+* Creado por el increible Ingeniero de sistemas
 
 Y como un amable recordatorio: **El readme.md es muy importante**. y visita mi perfil de GitHub [**ver perfil**.](https://github.com/juanjo95/ "ver perfil.")
